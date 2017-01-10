@@ -1,0 +1,3 @@
+- Install des softs de dev pour la carte Laura + examen du GeekHub
+- Examen et test du soft standard sur la carte + supprimé la crypto dans le code
+- Commencé le craft code du GpS (temps activé, etc...)
